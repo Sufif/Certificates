@@ -10,6 +10,7 @@ Certificate|
 
 Skills / Area 📊 "Google Data Analytics" https://github.com/Sufif/Certificates/blob/main/Google%20Data%20analytics.pdf
 
+
 Data Analytics🧠 
 "Forage – GenAI Analyst" https://github.com/Sufif/Certificates/blob/main/Forage_GenAi_Analyst.pdf Generative AI & Analytics
 
@@ -24,7 +25,9 @@ SQL & Database Analysis
 
 
 
-📈 "Skill India – Power BI" (./Skill%20India%20Power%20Bi.pdf)| Power BI & Data Visualization
+📈 "Skill India – Power BI" https://github.com/Sufif/Certificates/blob/main/Skill%20India%20Power%20Bi.pdfPower BI & Data Visualization
+
+
 💻 "be10x Certificate" (./be10x.pdf)| Technology & Productivity
 
 🛠️ Skills Developed
