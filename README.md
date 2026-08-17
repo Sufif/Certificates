@@ -28,7 +28,9 @@ SQL & Database Analysis
 📈 "Skill India – Power BI" https://github.com/Sufif/Certificates/blob/main/Skill%20India%20Power%20Bi.pdfPower BI & Data Visualization
 
 
-💻 "be10x Certificate" (./be10x.pdf)| Technology & Productivity
+💻 "be10x Certificate" 
+https://github.com/Sufif/Certificates/blob/main/be10x.pdf 
+Technology & Productivity
 
 🛠️ Skills Developed
 
