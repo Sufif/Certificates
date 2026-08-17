@@ -7,6 +7,7 @@ This repository contains the certifications I have earned while continuously dev
 🏆 My Certifications
 
 Certificate| 
+
 Skills / Area 📊 "Google Data Analytics" https://github.com/Sufif/Certificates/blob/main/Google%20Data%20analytics.pdf
 
 Data Analytics
