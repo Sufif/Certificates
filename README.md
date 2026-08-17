@@ -14,7 +14,10 @@ Data Analytics🧠
 "Forage – GenAI Analyst" https://github.com/Sufif/Certificates/blob/main/Forage_GenAi_Analyst.pdf Generative AI & Analytics
 
 
-⚛️ "Forage – Quantum" (./Forage_Quantum.pdf)| Quantum Computing
+⚛️ "Forage – Quantum" https://github.com/Sufif/Certificates/blob/main/Forage_Quantum.pdf
+Quantum Computing
+
+
 🗄️ "SQL Certificate" (./SQL%20.pdf)| SQL & Database Analysis
 📈 "Skill India – Power BI" (./Skill%20India%20Power%20Bi.pdf)| Power BI & Data Visualization
 💻 "be10x Certificate" (./be10x.pdf)| Technology & Productivity
