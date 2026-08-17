@@ -18,7 +18,12 @@ Data Analytics🧠
 Quantum Computing
 
 
-🗄️ "SQL Certificate" (./SQL%20.pdf)| SQL & Database Analysis
+🗄️ "SQL Certificate" 
+https://github.com/Sufif/Certificates/blob/main/SQL%20.pdf 
+SQL & Database Analysis
+
+
+
 📈 "Skill India – Power BI" (./Skill%20India%20Power%20Bi.pdf)| Power BI & Data Visualization
 💻 "be10x Certificate" (./be10x.pdf)| Technology & Productivity
 
