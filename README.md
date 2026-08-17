@@ -10,8 +10,8 @@ Certificate|
 
 Skills / Area 📊 "Google Data Analytics" https://github.com/Sufif/Certificates/blob/main/Google%20Data%20analytics.pdf
 
-Data Analytics
-🧠 "Forage – GenAI Analyst" Forage_GenAi_Analyst.pdf Generative AI & Analytics
+Data Analytics🧠 
+"Forage – GenAI Analyst" https://github.com/Sufif/Certificates/blob/main/Forage_GenAi_Analyst.pdf Generative AI & Analytics
 
 
 ⚛️ "Forage – Quantum" (./Forage_Quantum.pdf)| Quantum Computing
