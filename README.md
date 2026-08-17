@@ -11,7 +11,9 @@ Certificate|
 Skills / Area 📊 "Google Data Analytics" https://github.com/Sufif/Certificates/blob/main/Google%20Data%20analytics.pdf
 
 Data Analytics
-🧠 "Forage – GenAI Analyst" (./Forage_GenAi_Analyst.pdf)| Generative AI & Analytics
+🧠 "Forage – GenAI Analyst" Forage_GenAi_Analyst.pdf Generative AI & Analytics
+
+
 ⚛️ "Forage – Quantum" (./Forage_Quantum.pdf)| Quantum Computing
 🗄️ "SQL Certificate" (./SQL%20.pdf)| SQL & Database Analysis
 📈 "Skill India – Power BI" (./Skill%20India%20Power%20Bi.pdf)| Power BI & Data Visualization
