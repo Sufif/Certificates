@@ -7,7 +7,9 @@ This repository contains the certifications I have earned while continuously dev
 🏆 My Certifications
 
 Certificate| Skills / Area
-📊 "Google Data Analytics" (./Google%20Data%20analytics.pdf)| Data Analytics
+📊 "Google Data Analytics" https://github.com/Sufif/Certificates/blob/main/Google%20Data%20analytics.pdf
+
+Data Analytics
 🧠 "Forage – GenAI Analyst" (./Forage_GenAi_Analyst.pdf)| Generative AI & Analytics
 ⚛️ "Forage – Quantum" (./Forage_Quantum.pdf)| Quantum Computing
 🗄️ "SQL Certificate" (./SQL%20.pdf)| SQL & Database Analysis
