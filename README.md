@@ -55,31 +55,6 @@ Check out my other GitHub repositories for:
 
 If you find my work useful, feel free to star ⭐ the repository and explore my other projects.SQL & Database Analysis
 
-
-
-📈 "Skill India – Power BI" https://github.com/Sufif/Certificates/blob/main/Skill%20India%20Power%20Bi.pdfPower BI & Data Visualization
-
-
-💻 "be10x Certificate" 
-https://github.com/Sufif/Certificates/blob/main/be10x.pdf 
-Technology & Productivity
-
-🛠️ Skills Developed
-
-Through these certifications and learning experiences, I have strengthened my knowledge in:
-
-- 📊 Data Analysis
-- 🗄️ SQL & PostgreSQL
-- 📈 Power BI & Data Visualization
-- 🐍 Python for Data Analytics
-- 🤖 Generative AI
-- 📋 Data-driven Problem Solving
-- 🔍 Analytical Thinking
-
-🎯 Career Goal
-
-I am continuously learning and building practical projects to become a Data Analyst and turn raw data into meaningful, actionable insights.
-
 «🚀 Learn → Practice → Build → Analyze → Grow»
 
 📌 More Projects
